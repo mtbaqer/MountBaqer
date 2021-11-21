@@ -1,6 +1,6 @@
 ### Hi there 👋
-- :mortar_board: Currently pursuing Mater’s in Software Engineering at Drexel University.
-- 🔭 Currently actively looking for Summer 2022 internship
+- :mortar_board: Currently pursuing Master’s in Software Engineering at Drexel University.
+- 🔭 Currently looking for Summer 2022 internship
 - 📫 How to reach me: mohammad@baqer.io
 - 😄 Pronouns: He/Him
 
